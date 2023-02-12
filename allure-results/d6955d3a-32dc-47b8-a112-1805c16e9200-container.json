@@ -1,0 +1,1 @@
+{"uuid":"d6955d3a-32dc-47b8-a112-1805c16e9200","name":"org.spr.tests.TestGetPerson","children":["16260923-beea-4726-807d-42f50b6cc55a"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1676027788023,"stop":1676027788968}],"afters":[],"start":1676027787967,"stop":1676027791566}
